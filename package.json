@@ -1,0 +1,16 @@
+{
+  "name": "gws",
+  "version": "0.0.1",
+  "author": "Robbie Pallas <rpallas@gmail.com>",
+  "description": "Game web services",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpallas/gws-server.git"
+  },
+  "dependencies": {
+    "socket.io": "0.9.8",
+    "cookie": "~0.1.0",
+    "connect": "~2.8.1",
+    "node-uuid": "~1.4.0"
+  }
+}
